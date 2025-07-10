@@ -4,8 +4,6 @@ This Power BI project explores HR data from Palmoria Group, a fictional manufact
 
 The analysis focuses on uncovering potential bias and guiding executive decisions for fairer compensation and compliance with labor regulations.
 
----
-
 ## 🔍 Key Business Questions Answered
 
 - What is the gender distribution across regions and departments?
@@ -21,8 +19,6 @@ The analysis focuses on uncovering potential bias and guiding executive decision
 - Performance & Salary Analysis
 - Conditional Calculated Columns
 - Dashboard Design & Insight Presentation
-
----
 
 ## 📂 Files Included
 
