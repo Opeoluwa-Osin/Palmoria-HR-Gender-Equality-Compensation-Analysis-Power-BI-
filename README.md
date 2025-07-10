@@ -1,5 +1,3 @@
-# palmoria_hr_analysis
-Power BI analysis of gender equality and compensation structure at Palmora Group
 # Palmoria HR Gender Equality & Compensation Analysis (Power BI)
 
 This Power BI project explores HR data from Palmoria Group, a fictional manufacturing company based in Nigeria, facing public scrutiny for gender inequality in its workforce. As an HR Analytics Analyst, I was tasked with uncovering hidden patterns in gender distribution, salary structure, performance ratings, and bonus allocation.
