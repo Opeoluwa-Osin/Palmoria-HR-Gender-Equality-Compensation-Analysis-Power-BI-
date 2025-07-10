@@ -1,3 +1,4 @@
+[PALMORA GROUP.pdf](https://github.com/user-attachments/files/21168857/PALMORA.GROUP.pdf)
 # Palmoria HR Gender Equality & Compensation Analysis (Power BI)
 
 This Power BI project explores HR data from Palmoria Group, a fictional manufacturing company based in Nigeria, facing public scrutiny for gender inequality in its workforce. As an HR Analytics Analyst, I was tasked with uncovering hidden patterns in gender distribution, salary structure, performance ratings, and bonus allocation.
@@ -21,10 +22,12 @@ The analysis focuses on uncovering potential bias and guiding executive decision
 - Dashboard Design & Insight Presentation
 
 ## 📂 Files Included
+[PALMORA GROUP.pbix.txt](https://github.com/user-attachments/files/21169002/PALMORA.GROUP.pbix.txt)
 
 - Palmoria_HR_Report.pdf → Final dashboard in PDF format
 - Palmoria_HR_Analysis.pbix → Original Power BI file with all calculations
-
----
+  
 
 > 🔧 Built fully in Microsoft Power BI using real-world HR analysis techniques.
+[PALMORA GROUP REPORT . pdf.pdf](https://github.com/user-attachments/files/21168931/PALMORA.GROUP.REPORT.pdf.pdf)
+[PALMORA GROUP.pbix.txt](https://github.com/user-attachments/files/21168989/PALMORA.GROUP.pbix.txt)
